@@ -1,1 +1,0 @@
-/home/slobodan/OLDopenwrt-rtk/rtk_openwrt_src/staging_dir/target-mips-rlx4181-linux/../host/share/aclocal/lt~obsolete.m4

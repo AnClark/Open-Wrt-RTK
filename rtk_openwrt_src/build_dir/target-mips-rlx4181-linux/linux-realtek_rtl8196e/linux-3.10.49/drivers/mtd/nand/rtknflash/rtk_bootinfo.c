@@ -1,1 +1,0 @@
-../../maps/rtk_bootinfo.c

@@ -1,1 +1,0 @@
-../mpn/mips32/submul_1.asm

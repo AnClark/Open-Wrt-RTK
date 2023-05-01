@@ -1,5 +1,0 @@
-if BUILD_LIBFDISK
-
-include libfdisk/src/Makemodule.am
-
-endif # BUILD_LIBFDISK
